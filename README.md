@@ -34,5 +34,4 @@ The script provides accurate and reproducible results for time and date calculat
 - Assumes correct input format
 
 ## Demo Video
-
-(Paste your video link here)
+https://youtu.be/YGr3v_w-9V0
